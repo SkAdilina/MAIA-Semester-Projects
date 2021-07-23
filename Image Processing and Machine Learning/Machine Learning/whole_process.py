@@ -3,7 +3,8 @@
 
 print("\nEXTRACTING FEATURES ... ")
 print("__________________________________________________")
-# The csv files are provided in the 'green' folder, so no need to run it again
+# The csv files are provided in this link -> https://drive.google.com/drive/folders/1ciE6ksmzgpM0PFr-tloPrHtksggkvfMZ?usp=sharing
+# Store all the csv files in the a folder named "green" to be able to smoothly run the code
 # For each lesion 2 csv files are created: one from training dataset, one from testing dataset
 #import segmentAllTest as segment 
 print("\nThe csv files are ready.")
