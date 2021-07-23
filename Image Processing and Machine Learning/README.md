@@ -10,8 +10,11 @@ Two other members were involved in the Deep Learning part of the project, the co
 
 
 Explanation of the code:
-* **Image Processing - ** 4 separate codes are given 4 separate python scripts
-* **Machine Learning - ** The "whole_process.py" script runs all the necessary python scripts for the entire ML part. Refer to the comments in the script to get the details of what each python script does.
+* **Image Processing - ** 
+  * 4 separate codes are given 4 separate python scripts.
+* **Machine Learning - ** 
+  * The "whole_process.py" script runs all the necessary python scripts for the entire ML part. 
+  * Refer to the comments in the script to get the details of what each python script does.
 
 
 (You will find full details of the project in the project report)
