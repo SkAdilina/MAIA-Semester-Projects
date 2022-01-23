@@ -9,6 +9,8 @@ We did this project for our Medical Image Registration and Applications in our t
 
 **Dataset -** COPD (Chronic obstructive pulmonary disease) (https://www.dir-lab.com/)
 
+The submission of this project was done as a Challenge where we were given 3 new cases to register. **Our method was the fastest and we also had the best results.**
+
 The codes:
 * **Traditional Method -** 
   * The folder contains the files required to run the tradtional registration using B-Spline transformation.
