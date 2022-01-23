@@ -5,11 +5,11 @@ This project was done by the following members (names alphabetically sorted):
 * Sheikh Adilina - adilina.techna@gmail.com
 
 
-We did this project for our Medical Image Registration and Applications in our thrid semester of MAIA. 
+We did this project for our Medical Image Registration and Applications in our third semester of MAIA. 
 
 **Dataset -** COPD (Chronic obstructive pulmonary disease) (https://www.dir-lab.com/)
 
-Explanation of the code:
+The codes:
 * **Traditional Method -** 
   * The folder contains the files required to run the tradtional registration using B-Spline transformation.
 * **VoxelMorph -** 
