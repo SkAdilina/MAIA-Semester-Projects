@@ -1,6 +1,6 @@
 ## Classification challenge on Alzheimer’s Disease
 
-### The challenge consists in dealing with three binary classification problems using any of the studied approaches andmethods. 
+### The challenge consists in dealing with three binary classification problems using any of the studied approaches and methods. 
 
 ### Your task is: 
 - to choose the classifier that achieves the best performance classification results on the testdatasets.
